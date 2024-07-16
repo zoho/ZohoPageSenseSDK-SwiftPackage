@@ -1,2 +1,0 @@
-# ZohoPageSenseSDK-SwiftPackage
-ZohoPageSenseSDK-SwiftPackage
