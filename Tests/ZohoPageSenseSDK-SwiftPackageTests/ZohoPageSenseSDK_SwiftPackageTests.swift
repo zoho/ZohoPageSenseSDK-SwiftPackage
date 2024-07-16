@@ -1,7 +1,7 @@
 import XCTest
-@testable import ZohoPageSenseSDK_SwiftPackag
+@testable import ZohoPageSenseSDK_SwiftPackage
 
-final class ZohoPageSenseSDK_SwiftPackagTests: XCTestCase {
+final class ZohoPageSenseSDK_SwiftPackageTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
