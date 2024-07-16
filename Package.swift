@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "ZohoPageSenseSDK-SwiftPackage",
-            targets: ["ZohoPageSenseSDK-SwiftPackage"]),
+            targets: ["ZohoPageSenseSDK-SwiftPackage","ios"]),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -20,9 +20,8 @@ let package = Package(
             name: "ZohoPageSenseSDK-SwiftPackageTests",
             dependencies: ["ZohoPageSenseSDK-SwiftPackage"]),
         .binaryTarget(
-            name: "ZohoPageSenseSDK",
-            url: "https://github.com/zoho/ZohoPageSenseSDK/archive/refs/tags/0.7.4.zip",
-            checksum: "92ab79f75b4f01accf82d2ccfa8ba423b7a71569778e78a76608ed6ba5e2cce6"
+            name: "ios",
+            path: "ios.xcframework"
         )
     ]
 )
