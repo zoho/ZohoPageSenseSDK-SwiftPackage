@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZohoPageSenseSDK-SwiftPackage",
-            path: "./Frameworks/ZohoPageSenseFramework.xcframework"
+            path: "./Frameworks/PageSenseFramework.xcframework"
         )
     ]
 )
