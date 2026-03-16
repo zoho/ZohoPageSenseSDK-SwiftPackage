@@ -22,15 +22,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		56w6KXC62OHhvs1Vx6Q85wonmX8=
+		uTKgMZeo4ke1IgGKzdOh8IMZW1U=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cq5LFSkwsSFOPitQXOenLFAnOzg=
+		I+jvnqScwnjUYeYfuiCtc5kQmwA=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		E41ZbnAVrvjJX5s8iAtGY7n7A5E=
+		3qt/z+mhvyWgRunbzShXXwmP5wQ=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		E41ZbnAVrvjJX5s8iAtGY7n7A5E=
+		3qt/z+mhvyWgRunbzShXXwmP5wQ=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HGyV+cVrjBi+7LgYozKjitnpKKs=
+		bmrYCASgbtZJYh0/XQNBbqsyVdk=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cq5LFSkwsSFOPitQXOenLFAnOzg=
+		I+jvnqScwnjUYeYfuiCtc5kQmwA=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vzu0Kd5zK0ipYevlcctrqDVpr/g=
+		IVgFSwjo5cEQGv8TVKKGZpgX9Y4=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vzu0Kd5zK0ipYevlcctrqDVpr/g=
+		IVgFSwjo5cEQGv8TVKKGZpgX9Y4=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		D4hNLGwgw7YHGzHN9vaf+hWjQo0=
+		PbSdJfrSMEOFrRUeXVqJQOuqUD0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J7Zu6HloKT5L+WPMCQYYUtnLPh4=
+			pCFLYyOaF5wX3fFSKRFojNoXngk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -130,14 +130,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+BgCiZUhhzvpEoHSo9whKFkvQMAlDjDpaTC9zZQUOo=
+			ZnJ1Vlkd4Eylwq+F1+aAZBXUQPT9pVl5V0MAOWTnKOg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66bEbRmFS4eFo9NtDGG3kqNE3BUJ/1ysOtgmbnQblB8=
+			qisN1TeIKzA5YibFARR1XmfVLeTZ5OMCZAZ4lZwz/dc=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -151,28 +151,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			66bEbRmFS4eFo9NtDGG3kqNE3BUJ/1ysOtgmbnQblB8=
+			qisN1TeIKzA5YibFARR1XmfVLeTZ5OMCZAZ4lZwz/dc=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O2o0CvCYzfET5hFTNSYCfBtQC1hGP/zW8d55z4bfias=
+			QvPTHUf+lnSWbb+wVvkx5fjFLxEISdOxzcKcFP1E3Gg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+BgCiZUhhzvpEoHSo9whKFkvQMAlDjDpaTC9zZQUOo=
+			ZnJ1Vlkd4Eylwq+F1+aAZBXUQPT9pVl5V0MAOWTnKOg=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hWWz4VV7q+QXXsXE04EDBnOUgG3IdT1nUT9lqWb8qgU=
+			KIHLh6c9/B/T+rpZBT3LCvQp0Tc5d9V2dpJhtP0L2RQ=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -186,14 +186,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hWWz4VV7q+QXXsXE04EDBnOUgG3IdT1nUT9lqWb8qgU=
+			KIHLh6c9/B/T+rpZBT3LCvQp0Tc5d9V2dpJhtP0L2RQ=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ce1VMcliCvm+eyBoK+db9b7fvu98X1ETY68O+RPTf0=
+			jeEjbTx61omhhiiVjErbYnaywvnUZF4or+Dr3/Svkyo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -207,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c7IVmf6ktfOAA8LBDGlRU6CaKdCeDlQq+j59ZfuF9sU=
+			3GGEE8vNcBUj0czt4XsJ2A9/JUgxj0wo5oe9TcUCUqE=
 			</data>
 			<key>optional</key>
 			<true/>
