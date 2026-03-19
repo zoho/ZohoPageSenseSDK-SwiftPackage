@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		csCTUA4Y8pXS9uj6xj2AsbCykao=
+		sCrbFcdem3KkQ002OzE/LTG6NWU=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		csCTUA4Y8pXS9uj6xj2AsbCykao=
+		sCrbFcdem3KkQ002OzE/LTG6NWU=
 		</data>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pCFLYyOaF5wX3fFSKRFojNoXngk=
+			mk5RWhc1Zwvl6fHfQ5dvfO2WJ08=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -130,7 +130,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KVVbc/VnI64xNTVgoLNz59t2j0ND56OFyDp5xBVkQE0=
+			c1ahvnULUO7e8e0RvKUoReuDEYRRUZNEzJc2uK+r2f0=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KVVbc/VnI64xNTVgoLNz59t2j0ND56OFyDp5xBVkQE0=
+			c1ahvnULUO7e8e0RvKUoReuDEYRRUZNEzJc2uK+r2f0=
 			</data>
 		</dict>
 		<key>Modules/PageSenseFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -207,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GGEE8vNcBUj0czt4XsJ2A9/JUgxj0wo5oe9TcUCUqE=
+			DHWv5IkrgxiIQgnU9ybigPcDtHrWQzx6q1UxvNqlD/M=
 			</data>
 			<key>optional</key>
 			<true/>
