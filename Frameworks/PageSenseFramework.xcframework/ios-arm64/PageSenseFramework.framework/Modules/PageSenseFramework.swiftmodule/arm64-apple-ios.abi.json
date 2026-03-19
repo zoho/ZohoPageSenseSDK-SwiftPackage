@@ -3810,294 +3810,294 @@
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 38351,
+      "offset": 40478,
       "length": 13,
       "value": "\"status_code\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 38393,
+      "offset": 40520,
       "length": 15,
       "value": "\"status_string\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 38459,
+      "offset": 40586,
       "length": 17,
       "value": "\"projectsettings\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39001,
+      "offset": 41128,
       "length": 13,
       "value": "\"portal_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39041,
+      "offset": 41168,
       "length": 13,
       "value": "\"project_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39107,
+      "offset": 41234,
       "length": 15,
       "value": "\"sdk_host_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39153,
+      "offset": 41280,
       "length": 17,
       "value": "\"sdk_environment\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39198,
+      "offset": 41325,
       "length": 14,
       "value": "\"project_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39240,
+      "offset": 41367,
       "length": 14,
       "value": "\"sdk_language\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39302,
+      "offset": 41429,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39370,
+      "offset": 41497,
       "length": 19,
       "value": "\"project_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39412,
+      "offset": 41539,
       "length": 9,
       "value": "\"sdk_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 39450,
+      "offset": 41577,
       "length": 16,
       "value": "\"sdk_account_id\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40057,
+      "offset": 42184,
       "length": 17,
       "value": "\"experiment_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40104,
+      "offset": 42231,
       "length": 16,
       "value": "\"experiment_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40151,
+      "offset": 42278,
       "length": 17,
       "value": "\"environment_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40203,
+      "offset": 42330,
       "length": 22,
       "value": "\"experiment_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40259,
+      "offset": 42386,
       "length": 21,
       "value": "\"is_development_mode\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40308,
+      "offset": 42435,
       "length": 14,
       "value": "\"language_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40353,
+      "offset": 42480,
       "length": 17,
       "value": "\"experiment_type\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40403,
+      "offset": 42530,
       "length": 19,
       "value": "\"permitted_traffic\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40455,
+      "offset": 42582,
       "length": 19,
       "value": "\"experiment_status\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40550,
+      "offset": 42677,
       "length": 15,
       "value": "\"language_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40597,
+      "offset": 42724,
       "length": 18,
       "value": "\"environment_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40912,
+      "offset": 43039,
       "length": 13,
       "value": "\"is_original\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 40959,
+      "offset": 43086,
       "length": 21,
       "value": "\"variation_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41016,
+      "offset": 43143,
       "length": 22,
       "value": "\"traffic_distribution\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41068,
+      "offset": 43195,
       "length": 16,
       "value": "\"variation_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41113,
+      "offset": 43240,
       "length": 15,
       "value": "\"variation_key\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41367,
+      "offset": 43494,
       "length": 15,
       "value": "\"audience_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41420,
+      "offset": 43547,
       "length": 25,
       "value": "\"audience_condition_json\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41478,
+      "offset": 43605,
       "length": 20,
       "value": "\"audience_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 41688,
+      "offset": 43815,
       "length": 16,
       "value": "\"condition_type\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42026,
+      "offset": 44153,
       "length": 16,
       "value": "\"condition_type\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42116,
+      "offset": 44243,
       "length": 16,
       "value": "\"attribute_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42346,
+      "offset": 44473,
       "length": 20,
       "value": "\"audience_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42584,
+      "offset": 44711,
       "length": 16,
       "value": "\"goal_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42625,
+      "offset": 44752,
       "length": 11,
       "value": "\"goal_type\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42661,
+      "offset": 44788,
       "length": 11,
       "value": "\"goal_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42699,
+      "offset": 44826,
       "length": 13,
       "value": "\"goal_status\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42895,
+      "offset": 45022,
       "length": 16,
       "value": "\"goal_link_name\""
     },
     {
       "filePath": "\/Users\/thiagesh-24835\/Documents\/GitHub\/pagesense-ios-framework\/native\/PageSenseFramework\/PageSenseClient.swift",
       "kind": "StringLiteral",
-      "offset": 42941,
+      "offset": 45068,
       "length": 17,
       "value": "\"is_primary_goal\""
     },
