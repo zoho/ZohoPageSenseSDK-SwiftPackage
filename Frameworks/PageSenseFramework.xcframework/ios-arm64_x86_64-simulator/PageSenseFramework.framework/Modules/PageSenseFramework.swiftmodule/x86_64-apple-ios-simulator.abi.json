@@ -411,7 +411,7 @@
           {
             "kind": "Function",
             "name": "createNewPageSenseClient",
-            "printedName": "createNewPageSenseClient(sdkAccountIDForDC:projectname:sdkKey:sdkOptions:completion:)",
+            "printedName": "createNewPageSenseClient(sdkAccountIDForDC:sdkKey:projectname:sdkOptions:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -471,8 +471,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC11projectname0G3Key0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF",
-            "mangledName": "$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC11projectname0G3Key0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF",
+            "usr": "s:18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC0G3Key11projectname0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF",
+            "mangledName": "$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC0G3Key11projectname0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF",
             "moduleName": "PageSenseFramework",
             "declAttributes": [
               "AccessControl"

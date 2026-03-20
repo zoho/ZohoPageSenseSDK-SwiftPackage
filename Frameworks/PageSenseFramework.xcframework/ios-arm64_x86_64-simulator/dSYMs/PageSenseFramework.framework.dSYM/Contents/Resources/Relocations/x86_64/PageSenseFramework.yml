@@ -138,7 +138,7 @@ relocations:
   - { offset: 0xED191, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0xD080, symBinAddr: 0x141C0, symSize: 0x10 }
   - { offset: 0xED1A5, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0xD090, symBinAddr: 0x141D0, symSize: 0x50 }
   - { offset: 0xED1B9, size: 0x8, addend: 0x0, symName: '_$sS2Ss7CVarArg10FoundationWl', symObjAddr: 0xD110, symBinAddr: 0x14250, symSize: 0x30 }
-  - { offset: 0xED1CD, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC11projectname0G3Key0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctFy10Foundation4DataVSg_So13NSURLResponseCSgs5Error_pSgtYbcfU_TA', symObjAddr: 0xD240, symBinAddr: 0x14380, symSize: 0xD0 }
+  - { offset: 0xED1CD, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC0G3Key11projectname0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctFy10Foundation4DataVSg_So13NSURLResponseCSgs5Error_pSgtYbcfU_TA', symObjAddr: 0xD240, symBinAddr: 0x14380, symSize: 0xD0 }
   - { offset: 0xED1E1, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0CMa', symObjAddr: 0xD310, symBinAddr: 0x14450, symSize: 0x20 }
   - { offset: 0xED1F5, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C22trackUserDetailsInFileyyFyycfU_TA', symObjAddr: 0xD3C0, symBinAddr: 0x14500, symSize: 0x10 }
   - { offset: 0xED209, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C17trackEventsInFileyyFyycfU_TA', symObjAddr: 0xD3D0, symBinAddr: 0x14510, symSize: 0x10 }
@@ -165,8 +165,8 @@ relocations:
   - { offset: 0xEE47E, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C12setPushToken06deviceF0y10Foundation4DataV_tFZ', symObjAddr: 0x1070, symBinAddr: 0x8370, symSize: 0x210 }
   - { offset: 0xEE615, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C29trackPushNotificationReceived19notificationContentySo014UNNotificationI0C_tFZ', symObjAddr: 0x1280, symBinAddr: 0x8580, symSize: 0x60 }
   - { offset: 0xEE69D, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C18handleNotification8responseySo22UNNotificationResponseC_tFZ', symObjAddr: 0x12E0, symBinAddr: 0x85E0, symSize: 0x1CB0 }
-  - { offset: 0xEF297, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC11projectname0G3Key0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF', symObjAddr: 0x2F90, symBinAddr: 0xA290, symSize: 0x16B0 }
-  - { offset: 0xEFC2E, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC11projectname0G3Key0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctFy10Foundation4DataVSg_So13NSURLResponseCSgs5Error_pSgtYbcfU_', symObjAddr: 0x4640, symBinAddr: 0xB940, symSize: 0x3270 }
+  - { offset: 0xEF297, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC0G3Key11projectname0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctF', symObjAddr: 0x2F90, symBinAddr: 0xA290, symSize: 0x16B0 }
+  - { offset: 0xEFC2E, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C09createNewaB6Client17sdkAccountIDForDC0G3Key11projectname0G7Options10completionySS_S2SAA0aB10SDKOptionsCyAA0abF0CSgctFy10Foundation4DataVSg_So13NSURLResponseCSgs5Error_pSgtYbcfU_', symObjAddr: 0x4640, symBinAddr: 0xB940, symSize: 0x3270 }
   - { offset: 0xF1070, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0CfD', symObjAddr: 0x78B0, symBinAddr: 0xEBB0, symSize: 0x30 }
   - { offset: 0xF1142, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C8getAppIDSSyFZTf4d_n', symObjAddr: 0x96A0, symBinAddr: 0x109A0, symSize: 0x3D0 }
   - { offset: 0xF1225, size: 0x8, addend: 0x0, symName: '_$s18PageSenseFramework0aB0C31timeIntervalSince1970DateStringSSyFTf4d_n', symObjAddr: 0x9A70, symBinAddr: 0x10D70, symSize: 0xC0 }

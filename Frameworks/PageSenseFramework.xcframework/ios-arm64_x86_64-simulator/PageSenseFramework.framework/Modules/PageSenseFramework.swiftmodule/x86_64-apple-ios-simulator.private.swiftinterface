@@ -22,7 +22,7 @@ import _SwiftConcurrencyShims
   public static func trackPushNotificationReceived(notificationContent: UserNotifications.UNNotificationContent)
   public static func handleNotification(response: UserNotifications.UNNotificationResponse)
   #if compiler(>=5.3) && $NonescapableTypes
-  public func createNewPageSenseClient(sdkAccountIDForDC: Swift.String, projectname: Swift.String, sdkKey: Swift.String, sdkOptions: PageSenseFramework.PageSenseSDKOptions = PageSenseSDKOptions(), completion: @escaping (PageSenseFramework.PageSenseClient?) -> Swift.Void)
+  public func createNewPageSenseClient(sdkAccountIDForDC: Swift.String, sdkKey: Swift.String, projectname: Swift.String, sdkOptions: PageSenseFramework.PageSenseSDKOptions = PageSenseSDKOptions(), completion: @escaping (PageSenseFramework.PageSenseClient?) -> Swift.Void)
   #endif
   @objc deinit
 }
