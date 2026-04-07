@@ -9,13 +9,13 @@ let package = Package(
     products: [
         .library(
             name: "ZohoPageSenseSDK-SwiftPackage",
-            targets: ["PageSenseFramework"]
+            targets: ["ZohoPageSenseSDK-SwiftPackage"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "PageSenseFramework",
-            path: "Frameworks/PageSenseFramework.xcframework"
+            name: "ZohoPageSenseSDK-SwiftPackage",
+            path: "./Frameworks/PageSenseFramework.xcframework"
         )
     ]
 )
