@@ -15,7 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZohoPageSenseSDK-SwiftPackage",
-            path: "./Frameworks/PageSenseFramework.xcframework"
+            url: "https://github.com/zoho/ZohoPageSenseSDK/blob/master/Frameworks/PageSenseFramework.xcframework.zip",
+            checksum: "a6dd48cb30673a36bcc1c185863c10db90ff5bfb6b811763ff0d7ea25a1cf527"
         )
     ]
 )
